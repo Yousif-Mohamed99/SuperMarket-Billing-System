@@ -1,0 +1,4 @@
+
+1 Chips 5
+2 Meat 200
+3 Juice 15
